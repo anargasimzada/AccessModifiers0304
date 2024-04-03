@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\AccessModifiers0304\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35E947AE-C834-4302-AAB3-75264B4E3C9B}|AccessModifiers0304\\AccessModifiers0304.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\accessmodifiers0304\\accessmodifiers0304\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E947AE-C834-4302-AAB3-75264B4E3C9B}|AccessModifiers0304\\AccessModifiers0304.csproj|solutionrelative:accessmodifiers0304\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E947AE-C834-4302-AAB3-75264B4E3C9B}|AccessModifiers0304\\AccessModifiers0304.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\accessmodifiers0304\\accessmodifiers0304\\moduls\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E947AE-C834-4302-AAB3-75264B4E3C9B}|AccessModifiers0304\\AccessModifiers0304.csproj|solutionrelative:accessmodifiers0304\\moduls\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E947AE-C834-4302-AAB3-75264B4E3C9B}|AccessModifiers0304\\AccessModifiers0304.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\accessmodifiers0304\\accessmodifiers0304\\moduls\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E947AE-C834-4302-AAB3-75264B4E3C9B}|AccessModifiers0304\\AccessModifiers0304.csproj|solutionrelative:accessmodifiers0304\\moduls\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E947AE-C834-4302-AAB3-75264B4E3C9B}|AccessModifiers0304\\AccessModifiers0304.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\accessmodifiers0304\\accessmodifiers0304\\moduls\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E947AE-C834-4302-AAB3-75264B4E3C9B}|AccessModifiers0304\\AccessModifiers0304.csproj|solutionrelative:accessmodifiers0304\\moduls\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\AccessModifiers0304\\AccessModifiers0304\\Moduls\\Employee.cs",
+              "RelativeDocumentMoniker": "AccessModifiers0304\\Moduls\\Employee.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\AccessModifiers0304\\AccessModifiers0304\\Moduls\\Employee.cs",
+              "RelativeToolTip": "AccessModifiers0304\\Moduls\\Employee.cs",
+              "ViewState": "AQIAAAgAAABAYgNm3vghwBMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:25:59.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\AccessModifiers0304\\AccessModifiers0304\\Moduls\\Manager.cs",
+              "RelativeDocumentMoniker": "AccessModifiers0304\\Moduls\\Manager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\AccessModifiers0304\\AccessModifiers0304\\Moduls\\Manager.cs",
+              "RelativeToolTip": "AccessModifiers0304\\Moduls\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:25:02.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Assistant.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\AccessModifiers0304\\AccessModifiers0304\\Moduls\\Assistant.cs",
+              "RelativeDocumentMoniker": "AccessModifiers0304\\Moduls\\Assistant.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\AccessModifiers0304\\AccessModifiers0304\\Moduls\\Assistant.cs",
+              "RelativeToolTip": "AccessModifiers0304\\Moduls\\Assistant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:25:36.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\AccessModifiers0304\\AccessModifiers0304\\Program.cs",
+              "RelativeDocumentMoniker": "AccessModifiers0304\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\AccessModifiers0304\\AccessModifiers0304\\Program.cs",
+              "RelativeToolTip": "AccessModifiers0304\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:23:46.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

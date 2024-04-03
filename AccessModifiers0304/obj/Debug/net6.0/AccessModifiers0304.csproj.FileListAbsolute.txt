@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers0304\AccessModifiers0304\bin\Debug\net6.0\AccessModifiers0304.exe
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers0304\AccessModifiers0304\bin\Debug\net6.0\AccessModifiers0304.deps.json
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers0304\AccessModifiers0304\bin\Debug\net6.0\AccessModifiers0304.runtimeconfig.json
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers0304\AccessModifiers0304\bin\Debug\net6.0\AccessModifiers0304.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers0304\AccessModifiers0304\bin\Debug\net6.0\AccessModifiers0304.pdb
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers0304\AccessModifiers0304\obj\Debug\net6.0\AccessModifiers0304.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers0304\AccessModifiers0304\obj\Debug\net6.0\AccessModifiers0304.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers0304\AccessModifiers0304\obj\Debug\net6.0\AccessModifiers0304.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers0304\AccessModifiers0304\obj\Debug\net6.0\AccessModifiers0304.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers0304\AccessModifiers0304\obj\Debug\net6.0\AccessModifiers0304.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers0304\AccessModifiers0304\obj\Debug\net6.0\refint\AccessModifiers0304.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers0304\AccessModifiers0304\obj\Debug\net6.0\AccessModifiers0304.pdb
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers0304\AccessModifiers0304\obj\Debug\net6.0\AccessModifiers0304.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\AccessModifiers0304\AccessModifiers0304\obj\Debug\net6.0\ref\AccessModifiers0304.dll
